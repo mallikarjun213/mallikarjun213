@@ -69,5 +69,7 @@ Become an AI Engineer building intelligent systems that solve real-world problem
 ---
 
 ## 🤝 Connect With Me
-LinkedIn: linkedin.com/in/mallikarjun.ai
+LinkedIn: www.linkedin.com/in/mallikarjun-ai
+
+
 Email: mallikarjunmr.ai@gmail.com
