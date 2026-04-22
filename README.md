@@ -57,9 +57,9 @@ My personal GitHub profile  README
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mallikarjunmr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mallikarjun213&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunmr&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun213&layout=compact)
 
 ---
 
