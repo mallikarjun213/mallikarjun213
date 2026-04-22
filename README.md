@@ -1,7 +1,7 @@
-# mallikarjunmr
+mallikarjunmr
 My personal GitHub profile  README
 
-# Hi 👋 I'm Mallikarjun MR
+Hi 👋 I'm Mallikarjun MR
 
 🤖 Aspiring AI Engineer  
 🐍 Python | Machine Learning | Deep Learning  
@@ -11,35 +11,41 @@ My personal GitHub profile  README
 
 ---
 
-## 🚀 About Me
-- Completed Data Science Full Course
-- Passionate about Artificial Intelligence
-- Interested in Machine Learning & Deep Learning
-- Building AI projects daily
-- Looking for AI / ML Engineer roles
+🚀 About Me
+I have completed a Full Stack Data Science course with Generative AI and I am passionate about building intelligent systems using data and AI.
+I am highly interested in Artificial Intelligence, Machine Learning, and Deep Learning, and I actively work on improving my skills through continuous learning and project development.
+Currently, I am building AI/ML projects regularly to strengthen my practical knowledge and problem-solving ability.
+I am actively looking for an AI/ML Engineer or Data Science role to start my professional journey and contribute to real-world AI solutions.
 
+
+🚀 Interests
+Artificial Intelligence 🤖
+Machine Learning 📊
+Deep Learning 🧠
+Generative AI ✨
+AI Project Development 💡
 ---
 
-## 🧠 Skills
+🧠 Skills
 
-### Programming
+Programming
 - Python
 - SQL
 - Git & GitHub
 
-### Machine Learning
+Machine Learning
 - Regression
 - Classification
 - Model Evaluation
 - Scikit-Learn
 
-### Deep Learning
+Deep Learning
 - Neural Networks
 - TensorFlow / PyTorch
 - CNN Basics
 - NLP Basics
 
-### Data Tools
+Data Tools
 - Pandas
 - NumPy
 - Matplotlib
@@ -47,7 +53,7 @@ My personal GitHub profile  README
 
 ---
 
-## 🤖 AI Projects
+- 🤖 AI Projects
 - 🧠 House Price Prediction (ML)
 - ❤️ Disease Prediction Model
 - 🖼️ Image Classifier (CNN)
@@ -56,19 +62,19 @@ My personal GitHub profile  README
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mallikarjun213&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun213&layout=compact)
 
 ---
 
-## 🎯 Career Goal
+🎯 Career Goal
 Become an AI Engineer building intelligent systems that solve real-world problems.
 
 ---
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 LinkedIn: www.linkedin.com/in/mallikarjun-ai
 
 
